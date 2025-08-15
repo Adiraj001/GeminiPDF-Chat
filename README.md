@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-Google-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 > A simple **PDF Question-Answering Chatbot** built with **Streamlit** and **Google Gemini API**.  
 > Upload a PDF, ask questions, and get instant answers — powered by **Gemini 2.0 Flash**.

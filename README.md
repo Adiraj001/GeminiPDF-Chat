@@ -4,6 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-Google-brightgreen)
 
+
 > A simple **PDF Question-Answering Chatbot** built with **Streamlit** and **Google Gemini API**.  
 > Upload a PDF, ask questions, and get instant answers — powered by **Gemini 2.0 Flash**.
 

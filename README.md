@@ -27,9 +27,8 @@ git clone https://github.com/Adiraj001/GeminiPDF-Chat.git
 cd GeminiPDF-Chat
 
 # (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate    # Mac/Linux
-venv\Scripts\activate       # Windows
+conda create -n Gemini python=3.13.5 -y
+conda activate Gemini
 
 # Install dependencies
 pip install -r requirements.txt
